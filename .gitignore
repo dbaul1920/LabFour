@@ -1,2 +1,5 @@
+.gitigore
+.gitigor
 .DS_Store
 .class
+bin/
